@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Tree-based imputation
 
 ```yaml
 type: VideoExercise
